@@ -1,0 +1,160 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+
+  <title>History of Normal Distribution</title>
+  
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>5a81f712-0b8c-4353-9234-f2799c0d11b3</md:uuid>
+</metadata>
+
+
+  <content>
+    <para id="intro">In the chapter on probability, we saw that the binomial
+      distribution could be used to solve problems such as "If a
+      fair coin is flipped 100 times, what is the probability of
+      getting 60 or more heads?" The probability of exactly
+      <m:math><m:ci>x</m:ci> </m:math> heads out of
+      <m:math><m:ci>N</m:ci> </m:math> flips is computed using the
+      formula:
+
+      <m:math display="block">
+	<m:apply>
+	  <m:eq/>
+	  <m:apply>
+	    <m:ci type="fn">P</m:ci>
+	    <m:ci>x</m:ci>
+	  </m:apply>
+	  <m:apply>
+	    <m:times/>
+	    <m:apply>
+	      <m:divide/>
+		<m:apply>
+		<m:factorial/>
+		<m:ci>N</m:ci>
+	      </m:apply>
+	      <m:apply>
+		<m:times/>
+		<m:apply>
+		  <m:factorial/>
+		  <m:ci>x</m:ci>
+		</m:apply>
+		<m:apply>
+		  <m:factorial/>
+		  <m:apply>
+		    <m:minus/>
+		    <m:ci>N</m:ci>
+		    <m:ci>x</m:ci>
+		  </m:apply>
+		</m:apply>
+	      </m:apply>
+	    </m:apply>
+	    <m:apply>
+	      <m:power/>
+	      <m:pi/>
+	      <m:ci>x</m:ci>
+	    </m:apply>
+	    <m:apply>
+	      <m:power/>
+	      <m:apply>
+		<m:minus/>
+		<m:cn>1</m:cn>
+		<m:pi/>
+	      </m:apply>
+	      <m:apply>
+		<m:minus/>
+		<m:ci>N</m:ci>
+		<m:ci>x</m:ci>
+	      </m:apply>
+	    </m:apply>
+	  </m:apply>
+	</m:apply>
+      </m:math>
+      where <m:math><m:ci>x</m:ci></m:math> is the number of heads
+      (60), <m:math><m:ci>N</m:ci></m:math> is the number of flips
+      (100), and <m:math><m:pi/></m:math> is the probability
+      of a head (0.5). Therefore, to solve this problem, you compute
+      the probability of 60 heads, then the probability of 61 heads,
+      62 heads, etc, and add up all these probabilities. Imagine how long
+      it must have taken to compute binomial probabilities before the
+      advent of calculators and computers.  
+    </para>
+
+    <para id="moivre">
+      Abraham de Moivre, an 18th century statistician and consultant
+      to gamblers was often called upon to make these lengthy
+      computations. de Moivre noted that when the number of events
+      (coin flips) increased, the shape of the binomial distribution
+      approached a very smooth curve. Binomial distributions for 2, 4,
+      and 12 flips are shown in <link target-id="binomialfig"/>.
+      <figure id="binomialfig">
+	<media id="idp1351024" alt=""><image src="../../media/binomial.gif" mime-type="image/gif"/></media> 
+	<caption>
+	  Examples of binomial distributions. The heights of the blue
+	  bars represent the probabilities.
+	</caption>
+      </figure>
+      de Moivre reasoned that if he could find a mathematical
+      expression for this curve, he would be able to solve problems
+      such as finding the probability of 60 or more heads out of 100
+      coin flips much more easily. This is exactly what he did, and
+      the curve he discovered is now called the <term>normal
+      curve</term>.
+    </para>
+
+    <figure id="normalcurvefig">
+      <media id="idp2266976" alt=""><image src="../../media/normal_approx.png" mime-type="image/png"/></media> 
+      <caption>
+	The normal approximation to the binomial distribution for 12
+	coin flips. The smooth curve is the normal distribution. Note
+	how well it approximates the binomial probabilities
+	represented by the heights of the blue lines.
+      </caption>
+    </figure>
+
+    <para id="gauss">
+      The importance of the normal curve stems primarily from the fact
+      that the distribution of many natural phenomena are at least
+      approximately normally distributed. One of the first
+      applications of the normal distribution was to the analysis of
+      errors of measurement made in astronomical observations, errors
+      that occurred because of imperfect instruments and imperfect
+      observers. Galileo in the 17th century noted that these errors
+      were symmetric and that small errors occurred more frequently
+      than large errors. This led to several hypothesized
+      distributions of errors, but it was not until the early 19th
+      century that it was discovered that these errors followed a
+      normal distribution. Independently the mathematicians Adrian in
+      1808 and Gauss in 1809 developed the formula for the normal
+      distribution and showed that errors were fit well by this
+      distribution.
+    </para> 
+
+    <para id="laplace">
+      This same distribution had been discovered by Laplace in 1778
+      when he derived the extremely important <term>central limit
+      theorem</term>, the topic of a <link document="m11131">later
+      section</link> of this chapter. Laplace showed that even if a
+      distribution is not normally distributed, the means of repeated
+      samples from the distribution would be very nearly normal, and
+      that the the larger the sample size, the closer the distribution
+      would be to a normal distribution. Most statistical procedures
+      for testing differences between means assume normal
+      distributions. Because the distribution of means is very close
+      to normal, these tests work well even if the distribution itself
+      is only roughly normal.
+    </para>
+
+    <list id="bio">
+      <title>Biographical Information for:</title> 
+      <item>
+	<link url="http://www-gap.dcs.st-and.ac.uk/~history/Mathematicians/De_Moivre.html">de
+      Moivre</link> 
+      </item>
+      <item>
+	<link url="http://www-gap.dcs.st-and.ac.uk/~history/Mathematicians/Gauss.html">Gauss</link>
+      </item>
+      <item>
+	<link url="http://www-gap.dcs.st-and.ac.uk/~history/Mathematicians/Laplace.html">Laplace</link>
+      </item>
+    </list>
+  </content>
+  
+</document>

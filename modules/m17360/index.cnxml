@@ -1,0 +1,514 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Collaborative Statistics: Change History</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>ce9e4b4c-bf02-4ad1-8a32-576bca256d56</md:uuid>
+</metadata>
+  <content>
+    <para id="element-349">This module contains a listing of changes, updates, and corrections made to <link document="col10522">Collaborative Statistics</link> after its formal release on 15 July 2008 with version 1.17.  While you can always access the latest version of the content online, this list is intended for those who have downloaded or purchased an earlier printed copy of the text and wish to review changes that have been published in more recent versions.</para> 
+
+
+
+<!-- CHANGES FROM 1.17 to 1.21 -->
+
+
+<table id="element-398" summary="">
+<title>Listing of Changes Between Print Versions 1.21 and 1.25</title>
+<tgroup cols="3"><thead>
+<row>
+<entry>Change Number</entry>
+<entry>Description of the Change</entry>
+<entry>Physical Location</entry>
+</row>
+</thead>
+<tbody>
+  <row>
+    <entry>v1.21-1</entry>
+    <entry>Correction: Decimals have been corrected to four decimal places.</entry>
+    <entry>Page 28, Section 1.12.3</entry>
+  </row>
+  <row>
+    <entry>v1.21-2</entry>
+    <entry>Syntax Alteration: Changed “who” to “that”.</entry>
+    <entry>Page 30, Section 1.12.8; Page 30, Section 1.12.9; Page 30, Section 1.12.10; Page 30, Section 1.12.11</entry>
+  </row>
+  <row>
+    <entry>v1.21-3</entry>
+    <entry>Correction: Changed “5%” to “5.00%” and “93%” to “93.33%” </entry>
+    <entry>Page 41, Section 1.12.3</entry>
+  </row>
+  <row>
+    <entry>v1.21-4</entry>
+    <entry>Correction: Changed “619” to “919”.</entry>
+    <entry>Page 89, Solution to Exercise 2.12.5</entry>
+  </row>
+  <row>
+    <entry>v1.21-5</entry>
+    <entry>Correction: Removed part "g" and renamed part "h" as part "g".</entry>
+    <entry>Page 119, Section 3.11.24</entry>
+  </row>
+  <row>
+    <entry>v1.21-6</entry>
+    <entry>Syntax Alteration: In “Student Learning Outcomes”, the initiatives were changes to the following: “The student will use theoretical and empirical methods to estimate probabilities; The student will appraise the differences between the two estimates; and The student will demonstrate an understanding of long-term relative frequencies.”</entry>
+    <entry>Page 124, Section 3.13.1</entry>
+  </row>
+  <row>
+    <entry>v1.21-7</entry>
+    <entry>Correction: Changed “Variance of <m:math><m:mi>X</m:mi></m:math>” to “Frequency of <m:math><m:mi>X</m:mi></m:math>”</entry>
+    <entry>Page 134, Section 4.1.4</entry>
+  </row>
+  <row>
+    <entry>v1.21-8</entry>
+    <entry>Correction: Changed “For the next three question” to “For the next two question”.</entry>
+    <entry>Page 164, following Section 4.15.35</entry>
+  </row>
+  <row>
+    <entry>v1.21-9</entry>
+    <entry>Correction: Changed part “b” to “40th Percentile”. </entry>
+    <entry>Page 212, Section 5.10.7</entry>
+  </row>
+  <row>
+    <entry>v1.21-10</entry>
+    <entry>Correction: Part “a” changed to “Calculate the sample mean and the sample standard deviation for the number of AIDS cases (the data).” Changed part “f” to “Use the distribution in (e) to calculate the probability that the number of AIDS cases is less than 150.” Changed part “g” to “Determine the cumulative relative frequency that the number of AIDS cases is less than 150. Hint: Order the data and count the number of AIDS cases that are less than 150. Divide by the total number of AIDS cases.”</entry>
+    <entry>Page 230, Section 6.8.11</entry>
+  </row>
+  <row>
+    <entry>v1.21-11</entry>
+    <entry>Correction: The answer were changed to the following: “a. The sample mean is 155.16 and the sample standard deviation is 92.1605.”, “e. <m:math>
+<m:mi>N</m:mi><m:mo>(</m:mo><m:mn>155.16</m:mn><m:mo>,</m:mo><m:mn>92.1605</m:mn><m:mo>)</m:mo></m:math>”, “f. 0.4315”, and “g. 0.3408”.</entry>
+    <entry>Page 241, Solution to Exercise 6.8.11</entry>
+  </row>
+  <row>
+    <entry>v1.21-12</entry>
+    <entry>Correction: Solution changed to “0.1928”.</entry>
+    <entry>Page 409, Example 10.2, Problem 7</entry>
+  </row>
+  <row>
+    <entry>v1.21-13</entry>
+    <entry>Correction: Solution changed to “0.0002”.</entry>
+    <entry>Page 410, Solution to Exercise 10.7.10</entry>
+  </row>
+  <row>
+    <entry>v1.21-14</entry>
+    <entry>Correction: Answer for part “h” changed to “Decision: Reject null; The average difference is more than 2 minutes.”</entry>
+    <entry>Page 411, Solution to Exercise 10.9.25</entry>
+  </row>
+  <row>
+    <entry>v1.21-15</entry>
+    <entry>Correction: Table entry (1,3) changed from “3804” to “3692”, and  table entry (8,2) changed from “4.9” to “5.0”.</entry>
+    <entry>Page 439, Section 11.11.7</entry>
+  </row>
+  <row>
+    <entry>v1.21-16</entry>
+    <entry>Correction: Answer choice “e” changed to “27,876”.</entry>
+    <entry>Page 456, Solution to Exercise 11.11.17</entry>
+  </row>
+  <row>
+    <entry>v1.21-17</entry>
+    <entry>Correction: Changed the word “student” to “session” (both instances of the use of the word student).
+Added “What is the y-intercept and what is the slope? Interpret them using complete sentences.” to the “Problem”. 
+ The “Solution” was changed to: “The independent variable (x) is the number of hours Svetlana tutors each session. The dependent variable (y) is the amount, in dollars, Svetlana earns for each session.” and “The y intercept is 25 (a=25). At the start of the tutoring session, Svetlana charges a one-time fee of $25 (this is when x=0). The slope is 15 (b=15). For each session, Svetlana earns $15 for each hour she tutors.” </entry>
+    <entry>Page 463, Example 12.4</entry>
+  </row>
+  <row>
+    <entry>v1.21-18</entry>
+    <entry>Correction: Added “h. What is the slope of the least squares (best-fit) line? Interpret the slope.”</entry>
+    <entry>Page 484, Section 12.13.2</entry>
+  </row>
+  <row>
+    <entry>v1.21-19</entry>
+    <entry>Correction: Added “j. What is the slope of the least squares (best-fit) line? Interpret the slope.”</entry>
+    <entry>Page 484, Section 12.13.3</entry>
+  </row>
+  <row>
+    <entry>v1.21-20</entry>
+    <entry>Corection: Added “j. What is the slope of the least squares (best-fit) line? Interpret the Slope.”</entry>
+    <entry>Page 486, Section 12.13.5</entry>
+  </row>
+  <row>
+    <entry>v1.21-21</entry>
+    <entry>Correction: Added “k. What is the slope of the least squares (best-fit) line? Interpret the slope.”</entry>
+    <entry>Page 486, Section 12.13.6</entry>
+  </row>
+  <row>
+    <entry>v1.21-22</entry>
+    <entry>Correction: Added “j. What is the slope of the least squares (best-fit) line? Interpret the slope.”</entry>
+    <entry>Page 487, Section 12.13.7</entry>
+  </row>
+  <row>
+    <entry>v1.21-23</entry>
+    <entry>Correction: Added “j. What is the slope of the least squares (best-fit) line? Interpret the slope.”</entry>
+    <entry>Page 488, Section 12.13.8</entry>
+  </row>
+  <row>
+    <entry>v1.21-24</entry>
+    <entry>Correction: Added “j. What is the slope of the least squares (best-fit) line? Interpret the slope.”</entry>
+    <entry>Page 489, Section 12.13.9</entry>
+  </row>
+  <row>
+    <entry>v1.21-25</entry>
+    <entry>Correction: Added “l. What is the slope of the least squares (best-fit) line? Interpret the slope.”</entry>
+    <entry>Page 489, Section 12.13.10</entry>
+  </row>
+  <row>
+    <entry>v1.21-26</entry>
+    <entry>Correction: Added “k. What is the slope of the least squares (best-fit) line? Interpret the slope.”</entry>
+    <entry>Page 489, Section 12.13.11</entry>
+  </row>
+  <row>
+    <entry>v1.21-27</entry>
+    <entry>Correction: Added “j. What is the slope of the least squares (best-fit) line? Interpret the slope.”</entry>
+    <entry>Page 490, Section 12.13.12</entry>
+  </row>
+  <row>
+    <entry>v1.21-28</entry>
+    <entry>Correction: Added “k. What is the slope of the least squares (best-fit) line? Interpret the slope.”</entry>
+    <entry>Page 490, Section 12.13.13</entry>
+  </row>
+  <row>
+    <entry>v1.21-30</entry>
+    <entry> Syntax Alteration: Changed the word “total” to “average” in parts “d”, “e”, and “f”.</entry>
+    <entry>Page 494, Section 12.13.20</entry>
+  </row>
+  <row>
+    <entry>v1.21-31</entry>
+    <entry>Correction: Added “j. Slope= -0.0432. As the year increases by one, the welfare family size decreases by 0.0432 people.”</entry>
+    <entry>Page 507, Solution to Exercise 12.13.3</entry>
+  </row>
+  <row>
+    <entry>v1.21-32</entry>
+    <entry>Correction: Added “k. slope=0.0371. As the number of ounces increases by one, the cost of the liquid detergent increases by $0.0371 (or about 4 cents).”</entry>
+    <entry>Page 508, Solution to Exercise 12.13.9</entry>
+  </row>
+  <row>
+    <entry>v1.21-33</entry>
+    <entry>Correction: Added “k. slope=0.5463. As the net taxable estate increases by one dollar, the approximate probate fees and taxes increase by 0.5463 dollars (about 55 cents).”</entry>
+    <entry>Page 508, Solution to Exercise 12.13.11</entry>
+  </row>
+  <row>
+    <entry>v1.21-34</entry>
+    <entry>Correction: Added “k. slope=7.0948. As the age of an American boy increases by one dollar, the average height increases by 7.0948 cm.”</entry>
+    <entry>Page 508, Solution to Exercise 12.13.13</entry>
+  </row>
+  <row>
+    <entry>v1.21-35</entry>
+    <entry>Correction: Changed “p-value=0.0003” to “p-value=0.0006”.</entry>
+    <entry>Page 530, Solution to Exercise 13.9.13</entry>
+  </row>
+  <row>
+    <entry>v1.21-36</entry>
+    <entry>Correction: Question and answers changed to: “What is the error bound for the 90% confidence interval of the true average age?” “A. 11.2, B.22.3, C.17.5, D.8.7”</entry>
+    <entry>Page 543, Section 14.2.11</entry>
+  </row>
+  <row>
+    <entry>v1.21-37</entry>
+    <entry>Correction: Repaired y-hat issue. Now displays as “<m:math>
+<m:mover>
+<m:mi>y</m:mi>
+<m:mo>^</m:mo>
+</m:mover>
+</m:math>”.</entry>
+    <entry>Page 572, Row 6 from the bottom.</entry>
+  </row>
+  <row>
+    <entry>v1.21-38</entry>
+    <entry>Correction: The denominator has been changed from “<m:math>
+<m:msqrt>
+<m:mi>n</m:mi>
+<m:mi>π</m:mi>
+</m:msqrt>
+<m:mi>Ґ</m:mi>
+<m:mo>(</m:mo>
+<m:mfrac>
+<m:mrow>
+<m:mi>n</m:mi>
+<m:mo>+</m:mo>
+<m:mn>1</m:mn>
+</m:mrow>
+<m:mrow>
+<m:mn>2</m:mn>
+</m:mrow>
+</m:mfrac>
+<m:mo>)</m:mo>
+</m:math>”
+to
+“<m:math>
+<m:msqrt>
+<m:mi>n</m:mi>
+<m:mi>π</m:mi>
+</m:msqrt>
+<m:mi>Ґ</m:mi>
+<m:mo>(</m:mo>
+<m:mfrac>
+<m:mrow>
+<m:mi>n</m:mi>
+</m:mrow>
+<m:mrow>
+<m:mn>2</m:mn>
+</m:mrow>
+</m:mfrac>
+<m:mo>)</m:mo>
+</m:math>”
+</entry>
+    <entry>Page 573-4, Formula 14.11</entry>
+  </row>
+  <row>
+    <entry>v1.21-39</entry>
+    <entry>Correction: Solution changed to “8.7”</entry>
+    <entry>Page 577, Solution to Exercise 14.2.11</entry>
+  </row>
+  <row>
+    <entry>v1.21-40</entry>
+    <entry>Correction: Solution changed to 
+“<m:math>
+<m:mfrac>
+<m:mn>7</m:mn>
+<m:mn>9</m:mn>
+</m:mfrac>
+</m:math>”</entry>
+    <entry>Page 577, Solution to Exercise 14.2.16</entry>
+  </row>
+</tbody>
+
+
+
+
+
+
+
+</tgroup>
+</table>  
+
+
+
+<!-- CHANGES FROM 1.17 to 1.21 -->
+
+<table id="element-431" summary="">
+<title>Listing of Changes from Print Version 1.17 to 1.21</title>
+<tgroup cols="3"><thead>
+<row>
+<entry>Change Number</entry>
+<entry>Description of the Change</entry>
+<entry>Physical Location</entry>
+</row>
+</thead>
+<tbody>
+  <row>
+    <entry>v1.17-1</entry>
+    <entry>Syntax Alteration: Replaced "Be detailed." with "Make the description detailed."</entry>
+    <entry>Page 31, Exercise 1.12 13-14.</entry>
+  </row>
+  <row>
+    <entry>v1.17-2</entry>
+    <entry>Syntax Alteration: Replaced "What was the relative frequency of direct hits were category 4 hurricanes?" with "What was the relative frequency of direct hits THAT were category 4 hurricanes?"</entry>
+    <entry>Page 35, Exercise 1.12 23-24.</entry>
+  </row>
+  <row>
+    <entry>v1.17-3</entry>
+    <entry>Correction: Inserted question 1 which was absent in previous versions.</entry>
+    <entry>Page 66, Section 2.11.4 </entry>
+  </row>
+  <row>
+    <entry>v1.17-4</entry>
+    <entry>Syntax Alteration: Clarified the directions by adding "in section 2.11.3" to the instructions.</entry>
+    <entry>Page 67, Section 2.11.8</entry>
+  </row>
+  <row>
+    <entry>v1.17-5</entry>
+    <entry>Correction: Relocated "Note" to appear before the choice options as opposed to between choices "f" and "g".</entry>
+    <entry>Page 120, Section 3.11.23</entry>
+  </row>
+  <row>
+    <entry>v1.17-6</entry>
+    <entry>Correction: Answer choice "D" has been changed from "<m:math>
+<m:mfrac>
+<m:mi>6</m:mi>
+<m:mi>32</m:mi>
+</m:mfrac>
+</m:math>" to
+"<m:math>
+<m:mfrac>
+<m:mi>6</m:mi>
+<m:mi>36</m:mi>
+</m:mfrac>
+</m:math>".</entry>
+    <entry>Page 122, Section 3.11.29.</entry>
+  </row>
+  <row>
+    <entry>v1.17-7</entry>
+    <entry>Syntax Alteration: The Directions were changed from "Match the number to the correct letter." to "Answer the following:".</entry>
+    <entry>Page 123, Section 3.12.</entry>
+  </row>
+  <row>
+    <entry>v1.17-8</entry>
+    <entry>Syntax Alteration: Omission of the phrase "known as".</entry>
+    <entry>Page 123, Section 3.12.1</entry>
+  </row>
+  <row>
+    <entry>v1.17-9</entry>
+    <entry>Correction: The third question of Practices 2,3,4, and 5 for Chapter 4 was concluded with a colon, but that has been replaced with a question mark.</entry>
+    <entry>Page 153, 4.11.3; Page 155, 4.12.3; Page 156, 4.13.3; Page 158, 4.14.3</entry>
+  </row>
+  <row>
+    <entry>v1.17-10</entry>
+    <entry>Syntax Alteration: Replaced the word "Problem" with "Exercise 4.15.12". </entry>
+    <entry>Page 165, Section 4.15.25</entry>
+  </row>
+  <row>
+    <entry>v1.17-11</entry>
+    <entry>Correction: Replace the word "data" with "date".</entry>
+    <entry>Page 211, Section 5.8.16</entry>
+  </row>
+  <row>
+    <entry>v1.17-12</entry>
+    <entry>Correction: Reformatted the list from being "bulleted" to a "named-item".</entry>
+    <entry>Page 303, Section 8.7.1</entry>
+  </row>
+  <row>
+    <entry>v1.17-13</entry>
+    <entry>Correction: Replace "24,52" with "24.52".</entry>
+    <entry>Page 328, Solution to Exercise 8.6.11</entry>
+  </row>
+  <row>
+    <entry>v1.17-14</entry>
+    <entry>Correction: Replaced "0.3" with "0.33".</entry>
+    <entry>Page 329, Solution to Exercise 8.7.8</entry>
+  </row>
+  <row>
+    <entry>v1.17-15</entry>
+    <entry>Correction: Replaced "0.80" with "0.08".</entry>
+    <entry>Page 329, Solution to Exercise 8.8.8</entry>
+  </row>
+  <row>
+    <entry>v1.17-16</entry>
+    <entry> Correction: Replaced "0.02" with "0.04".</entry>
+    <entry>Page 331, Solution to Exercise 8.9.11</entry>
+  </row>
+  <row>
+    <entry>v1.17-17</entry>
+    <entry>Correction: Replaced "94" with "84". </entry>
+    <entry>Page 332, Solution to Exercise 8.9.19</entry>
+  </row>
+  <row>
+    <entry>v1.17-18</entry>
+    <entry>Syntax Alteration: Replaced "Show the formula set-up and calculate
+<m:math><m:mi>σ</m:mi><m:mi>x</m:mi></m:math>." with Calculate <m:math><m:mi>σ</m:mi><m:mi>x</m:mi></m:math>. Make sure to show how you set up the formula."</entry>
+    <entry>Page 359, Section 9.15.7</entry>
+  </row>
+  <row>
+    <entry>v1.17-19</entry>
+    <entry>Correction: Question 10.9.41 was incorrectly enter in two locations. The first entry was replaced with the correct question for 10.9.40.</entry>
+    <entry>Page 412, Section 10.9.40</entry>
+  </row>
+  <row>
+    <entry>v1.17-20</entry>
+    <entry>Syntax Alteration: For consistency, the instruction were changed from “Questions 1-3” to “For the next three questions”.</entry>
+    <entry>Page 416, Section 10.10; Page 418, below Section 10.10.9</entry>
+  </row>
+  <row>
+    <entry>v1.17-21</entry>
+    <entry>Correction: The Solution for Exercise 10.10.7 was changed from 
+“<m:math>
+<m:mi>N</m:mi>
+<m:mo>(</m:mo>
+<m:mfrac>
+<m:mrow>
+<m:mn>2.25</m:mn>
+</m:mrow>
+<m:mrow>
+<m:msqrt>
+<m:mn>16</m:mn>
+</m:msqrt>
+</m:mrow>
+</m:mfrac>
+<m:mo>)</m:mo>
+</m:math>”
+to
+“<m:math>
+<m:mi>N</m:mi>
+<m:mo>(</m:mo>
+<m:mn>2</m:mn>
+<m:mo>,</m:mo>
+<m:mfrac>
+<m:mrow>
+<m:mn>.25</m:mn>
+</m:mrow>
+<m:mrow>
+<m:msqrt>
+<m:mn>16</m:mn>
+</m:msqrt>
+</m:mrow>
+</m:mfrac>
+<m:mo>)</m:mo>
+</m:math>”.
+
+</entry>
+    <entry>Page 428, Solution to Exercise 10.10.7</entry>
+  </row>
+  <row>
+    <entry>v1.17-22</entry>
+    <entry>Correction: The answer choice for “f.” is incorrect and was changed from “143.14cm” to “143.13cm”.</entry>
+    <entry>Page 522, Solution to Exercise 12.13.13</entry>
+  </row>
+  <row>
+    <entry>v1.17-23</entry>
+    <entry>Correction: Incorrect spelling in the table was replaced with “working-class”.</entry>
+    <entry>Page 536, Section 13.8.2</entry>
+  </row>
+  <row>
+    <entry>v1.17-24</entry>
+    <entry>Correction: The answer choices have been reorganized and choice “D.” is now “Answer choices B and C are both true”.</entry>
+    <entry>Page 545, Section 14.1.3</entry>
+  </row>
+  <row>
+    <entry>v1.17-25</entry>
+    <entry>Correction: The list format has been changed from a bulleted list to a named-item list.</entry>
+    <entry>Page 548, Section 14.1.12</entry>
+  </row>
+  <row>
+    <entry>v1.17-26</entry>
+    <entry>Correction: The list format has been changed from a bulleted list to a named-item list.</entry>
+    <entry>Page 549, Section 14.1.19</entry>
+  </row>
+  <row>
+    <entry>v1.17-27</entry>
+    <entry>Correction: The answer choices have been reorganized and choice “D.” is now “Answer choices A and B are both true”.</entry>
+    <entry>Page 549, Section 14.1.19</entry>
+  </row>
+  <row>
+    <entry>v1.17-28</entry>
+    <entry>Syntax Alteration: For consistency, “Questions 23-24” has been replaced with “The next two questions”.</entry>
+    <entry>Page 550, below section 14.1.22</entry>
+  </row>
+  <row>
+    <entry>v1.17-29</entry>
+    <entry>Syntax Alteration: Answer choice “C” was changed from “Both above are correct.” to “Both of the above answers choices are correct.”</entry>
+    <entry>Page 551, Section 14.1.24</entry>
+  </row>
+  <row>
+    <entry>v1.17-30</entry>
+    <entry>Correction: The list format has been changed from a bulleted list to a named-item list.</entry>
+    <entry>Page 552, Section 14.1.29</entry>
+  </row>
+  <row>
+    <entry>v1.17-31</entry>
+    <entry>Syntax Alteration: For Consistency several instances of “Questions xx-xx” have been replaced with “The next xx questions”.</entry>
+    <entry>Page 556, below section 14.2.3; Page 556, below section 14.2.5; Page 557, below section 14.2.7; Page 558, below section 5.2.12; Page 559, below section 14.2.15; Page 560, after section 14.2.18; Page 562, below section 14.2.28</entry>
+  </row>
+  <row>
+    <entry>v1.17-32</entry>
+    <entry>Correction: Removed spaces in between numerals in the decimals.</entry>
+    <entry>Page 559, Section 14.2.18</entry>
+  </row>
+ 
+</tbody>
+
+
+
+
+</tgroup>
+</table>
+
+
+
+  </content>
+  
+</document>
